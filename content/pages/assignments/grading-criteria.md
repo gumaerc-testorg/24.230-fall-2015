@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9e789f82-3305-186b-e866-69ba3b584691
 title: Grading Criteria
 uid: 0cf1dc1c-ef6f-53b7-0a79-f442673bed7c
