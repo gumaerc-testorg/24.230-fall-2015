@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Papers
 parent_type: CourseSection
+parent_uid: 3c13f817-60b4-3769-9531-d9214f88abcb
 resourcetype: Document
 title: Contextualism and moral intuition
 uid: 9d883d7b-45ab-e543-0fe1-0e891b8b2a27
