@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of the reading responses assigned to students
+  in this course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides grading criteria for the pop quizzes, reading responses,
+  and essay assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

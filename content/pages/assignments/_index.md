@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments and associated
+  resources.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -45,7 +47,7 @@ Throughout
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reading Responses]({{< baseurl >}}/pages/assignments/reading-responses)
+{{% resource_link da987416-84ae-0488-3faf-6ca57cc1081d "Reading Responses" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Throughout
@@ -54,7 +56,7 @@ Throughout
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[First Paper]({{< baseurl >}}/pages/assignments/papers)
+{{% resource_link 3c13f817-60b4-3769-9531-d9214f88abcb "First Paper" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 14
@@ -63,7 +65,7 @@ Session 14
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Second Paper]({{< baseurl >}}/pages/assignments/papers)
+{{% resource_link 3c13f817-60b4-3769-9531-d9214f88abcb "Second Paper" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 28

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the writing assignments for the
+  course and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ Your essay should address **one** of the following questions. Please type your e
 
 ### Sample Student Work
 
-[Can Moral Facts be an Explanation? (PDF)]({{< baseurl >}}/resources/mit24_230f15_paper1) 
+{{% resource_link 6c8e4ba9-8a7d-bf54-d7aa-4336fec05cab "Can Moral Facts be an Explanation? (PDF)" %}} 
 
 Second Paper
 ------------
@@ -38,6 +40,6 @@ Please type your essay. It should be around 5 pages (double-spaced). Make sure y
 
 ### Sample Student Work
 
-[Contextualism and Moral Intuition (PDF)]({{< baseurl >}}/resources/mit24_230f15_finalpaper) 
+{{% resource_link 9d883d7b-45ab-e543-0fe1-0e891b8b2a27 "Contextualism and Moral Intuition (PDF)" %}} 
 
-[Essay 2 (PDF)]({{< baseurl >}}/resources/mit24_230f15_essay2)
+{{% resource_link 238f93fe-040f-acba-36c8-eedc96fe3f88 "Essay 2 (PDF)" %}}
