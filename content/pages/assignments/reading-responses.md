@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides examples of the reading responses assigned to students
+  in this course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9e789f82-3305-186b-e866-69ba3b584691
 title: Reading Responses
 uid: da987416-84ae-0488-3faf-6ca57cc1081d
