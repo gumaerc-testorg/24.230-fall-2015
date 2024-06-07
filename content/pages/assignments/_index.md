@@ -11,8 +11,8 @@ uid: 9e789f82-3305-186b-e866-69ba3b584691
 
 ### Resources
 
-*   {{% resource_link "446165fd-0b76-4331-a26e-ed31176f4b3f" "The Pink Guide to Philosophy" %}}
-*   {{% resource_link "e8492242-3230-43b6-9dcb-1ff6420f1533" "Jim Pryor's Guide to Writing Philosophy Papers" %}} (including grading guidelines)
+*   [The Pink Guide to Philosophy](https://sites.google.com/a/wellesley.edu/pinkguidetophilosophy/)
+*   [Jim Pryor's Guide to Writing Philosophy Papers](http://www.jimpryor.net/teaching/guidelines/writing.html) (including grading guidelines)
 
 {{< tableopen >}}
 {{< theadopen >}}
