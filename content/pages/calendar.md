@@ -50,7 +50,7 @@ Introduction
 Naturalism vs. Non-naturalism
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecturer on Session 6: [Nilanjan Das](http://www.dasnilanjan.com/)
+Guest Lecturer on Session 6: {{% resource_link "914d37c2-7ed9-4764-b5ed-d29edef1d13d" "Nilanjan Das" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +116,7 @@ Relativism
 Non-cognitivism
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecturer on Session 24: [Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)
+Guest Lecturer on Session 24: {{% resource_link "0327f518-a62c-4e78-88b4-4322f5ff6a9b" "Matt Mandelkern" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
