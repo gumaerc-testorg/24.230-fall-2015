@@ -35,13 +35,13 @@ Naturalism vs. Non-naturalism
 
 Moore, G. E. "The Subject-Matter of Ethics." Chapter 1 in *Principia Ethica*. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781456569907.
 
-Frankena, W. K. "{{% resource_link "3e3b746b-b1db-4a37-9a39-2a67d97eb20a" "The Naturalistic Fallacy" %}}." *Mind* 48, no. 192 (1939): 464–77. (Oxford University Press)
+Frankena, W. K. "[The Naturalistic Fallacy](http://www.jstor.org/stable/2250706)." *Mind* 48, no. 192 (1939): 464–77. (Oxford University Press)
 
-Thomson, Judith Jarvis. "{{% resource_link "99c860e7-7ef2-44ec-b221-ff1204c33990" "The Right and the Good" %}}." *The Journal of Philosophy* 94, no. 6 (1997): 273–98.
+Thomson, Judith Jarvis. "[The Right and the Good](http://dx.doi.org/10.2307/2564542)." *The Journal of Philosophy* 94, no. 6 (1997): 273–98.
 
 Boyd, Richard. "How to be a Moral Realist." Chapter 1.1–4.5 in *Essays on Moral Realism*. Cornell University Press, 1988. ISBN: 9780801495410.
 
-Horgan, Terence, and Mark Timmons. "{{% resource_link "b3f0170e-6be2-4813-8220-053a6660af22" "Troubles for New Wave Moral Semantics: The 'Open Question Argument' Revived" %}}." 
+Horgan, Terence, and Mark Timmons. "[Troubles for New Wave Moral Semantics: The 'Open Question Argument' Revived](https://www.tandfonline.com/doi/abs/10.1080/05568649209506380)." 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8–9
@@ -49,9 +49,9 @@ Horgan, Terence, and Mark Timmons. "{{% resource_link "b3f0170e-6be2-4813-8220-0
 Moral Explanations
 {{< tdclose >}}{{< tdopen >}}
 
-Harman, Gilbert. "Ethics and Observation." In *Essays on Moral Realism*. Cornell University Press, 1988. ISBN: 9780801495410. \[Preview with {{% resource_link "783dc7cb-df9d-4494-80f2-6d0225bfe34e" "Google Books" %}}\]
+Harman, Gilbert. "Ethics and Observation." In *Essays on Moral Realism*. Cornell University Press, 1988. ISBN: 9780801495410. \[Preview with [Google Books](http://books.google.com/books?id=-msmrkE-67IC&pg=PA119#v=onepage)\]
 
-Sturgeon, Nicholas. "Moral Explanations." In *Ethics: Essential Readings in Moral Theory*. Routledge, 2012. ISBN: 9780415782319. \[Preview with {{% resource_link "be20c2c2-fefc-4351-ac9d-5f6f7364a935" "Google Books" %}}\]
+Sturgeon, Nicholas. "Moral Explanations." In *Ethics: Essential Readings in Moral Theory*. Routledge, 2012. ISBN: 9780415782319. \[Preview with [Google Books](http://books.google.com/books?id=KaHbCgAAQBAJ&pg=PA164#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10–14
@@ -61,11 +61,11 @@ Disagreement and Oddness
 
 Mackie, J. L. "The Subjectivity of Values." In *Ethics: Inventing Right and Wrong*. Penguin, 1977.
 
-Foot, Philippa. "Morality as a System of Hypothetical Imperatives." In *Ethical Theory: An Anthology*. Wiley-Blackwell, 2012. ISBN: 9780470671603. \[Preview with {{% resource_link "4fff6b4e-1b52-44f9-981d-3f7cf7f5031b" "Google Books" %}}\]
+Foot, Philippa. "Morality as a System of Hypothetical Imperatives." In *Ethical Theory: An Anthology*. Wiley-Blackwell, 2012. ISBN: 9780470671603. \[Preview with [Google Books](http://books.google.com/books?id=P-1CpL6XDTYC&pg=PA138#v=onepage)\]
 
 Enoch, David. "Metaphysics." In *Taking Morality Seriously: A Defense of Robust Realism*. Oxford University Press, 2013. ISBN: 9780199683178.
 
-McGrath, Sarah. "{{% resource_link "2aba9d25-46c2-4f29-9034-5d8611f2c09d" "Moral Disagreement and Moral Expertise" %}}." *Oxford Studies in Metaethics* 4 (2007): 87–108.
+McGrath, Sarah. "[Moral Disagreement and Moral Expertise](http://philpapers.org/rec/MCGMDA)." *Oxford Studies in Metaethics* 4 (2007): 87–108.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Moral Anti-Realism**
@@ -75,9 +75,9 @@ McGrath, Sarah. "{{% resource_link "2aba9d25-46c2-4f29-9034-5d8611f2c09d" "Moral
 Relativism
 {{< tdclose >}}{{< tdopen >}}
 
-Williams, Bernard. "The Amoralist." In *Morality*. Cambridge University Press, 1993. ISBN: 9780521457293. \[Preview with {{% resource_link "7f6ac7a8-f74a-49d3-b585-bfdf0e09d15e" "Google Books" %}}\]
+Williams, Bernard. "The Amoralist." In *Morality*. Cambridge University Press, 1993. ISBN: 9780521457293. \[Preview with [Google Books](http://books.google.com/books?id=CPlEQ36EJw0C&pg=PA3#v=onepage)\]
 
-Joyce, Richard. "{{% resource_link "7f470eba-9966-4692-a0c9-473864f73ada" "Moral Fictionalism" %}}." *Philosophy Now*, February / March 2016.
+Joyce, Richard. "[Moral Fictionalism](https://philosophynow.org/issues/82/Moral_Fictionalism)." *Philosophy Now*, February / March 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16–18
@@ -85,13 +85,13 @@ Joyce, Richard. "{{% resource_link "7f470eba-9966-4692-a0c9-473864f73ada" "Moral
 Relativism (Cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-Harman, Gilbert. "{{% resource_link "fdbb765f-6f12-49a7-8293-c6f73ace5645" "Moral Relativism Defended" %}}." *The Philosophical Review* 84, no. 1 (1975): 3–22. (Duke University Press.)
+Harman, Gilbert. "[Moral Relativism Defended](http://www.jstor.org/stable/2184078)." *The Philosophical Review* 84, no. 1 (1975): 3–22. (Duke University Press.)
 
-Boghossian, Paul. "Three kinds of Relativism." In *Relativism: Feet Firmly Planted in Mid-Air*. Baker Books, 1998. ISBN: 9780801058066. \[Preview with {{% resource_link "d232987d-80cd-4390-9f24-f70b62e1afef" "Google Books" %}}\]
+Boghossian, Paul. "Three kinds of Relativism." In *Relativism: Feet Firmly Planted in Mid-Air*. Baker Books, 1998. ISBN: 9780801058066. \[Preview with [Google Books](http://books.google.com/books?id=JulBONF0BKMC&pg=PA36#v=onepage)\]
 
-———. "{{% resource_link "8494252e-6fac-4c67-bf31-4764ce47f007" "The Maze of Moral Relativism" %}}," *The New York Times*, July 24, 2011.
+———. "[The Maze of Moral Relativism](http://opinionator.blogs.nytimes.com/2011/07/24/the-maze-of-moral-relativism/?_r=0)," *The New York Times*, July 24, 2011.
 
-Sarkissian, Hagop, et al. "Folk Moral Relativism." In *Experimental Philosophy: Volume 2*. Oxford University Press, 2013. ISBN: 9780199927401. \[Preview with {{% resource_link "3f0c7e51-5101-4abb-966c-51b58ffde6a3" "Google Books" %}}\]
+Sarkissian, Hagop, et al. "Folk Moral Relativism." In *Experimental Philosophy: Volume 2*. Oxford University Press, 2013. ISBN: 9780199927401. \[Preview with [Google Books](http://books.google.com/books?id=IVLSAQAAQBAJ&pg=PA169#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19–24
@@ -99,17 +99,17 @@ Sarkissian, Hagop, et al. "Folk Moral Relativism." In *Experimental Philosophy: 
 Non-cognitivism
 {{< tdclose >}}{{< tdopen >}}
 
-Ayer, A. J. "Critique of Ethics and Theology." In *Essays on Moral Realism*. Cornell University Press, 1988. ISBN: 9780801495410. \[Preview with {{% resource_link "c31e445f-66a4-4871-925e-0df9493df243" "Google Books" %}}\]
+Ayer, A. J. "Critique of Ethics and Theology." In *Essays on Moral Realism*. Cornell University Press, 1988. ISBN: 9780801495410. \[Preview with [Google Books](http://books.google.com/books?id=-msmrkE-67IC&pg=PA27#v=onepage)\]
 
-Gibbard, Allan. *Wise Choices, Apt Feelings: A Theory of Normative Judgment*. Harvard University Press, 1992. ISBN: 9780674953789. \[Preview with {{% resource_link "9b6a2d56-02d0-4754-b09e-614dce9562d0" "Google Books" %}}\]
+Gibbard, Allan. *Wise Choices, Apt Feelings: A Theory of Normative Judgment*. Harvard University Press, 1992. ISBN: 9780674953789. \[Preview with [Google Books](http://books.google.com/books?id=lKfvFSZtYOEC&pg=PAfrontcover)\]
 
-Geach, P. T. "{{% resource_link "90dcde00-4b3b-4085-8542-3758da3e829f" "Assertion" %}}." *The Philosophical Review* 74, no. 4 (1965): 449–65. (Duke University Press on behalf of Philosophical Review.)
+Geach, P. T. "[Assertion](http://dx.doi.org/10.2307/2183123)." *The Philosophical Review* 74, no. 4 (1965): 449–65. (Duke University Press on behalf of Philosophical Review.)
 
-Gibbard, Allan. "Planning and Ruling Out: The Frege-Geach Problem." In *Thinking How to Live*. Harvard University Press, 2008. ISBN: 9780674027305. \[Preview with {{% resource_link "9ab6ffee-f282-49c3-97e1-0f55e22daf0e" "Google Books" %}}\]
+Gibbard, Allan. "Planning and Ruling Out: The Frege-Geach Problem." In *Thinking How to Live*. Harvard University Press, 2008. ISBN: 9780674027305. \[Preview with [Google Books](http://books.google.com/books?id=GdQmEQ4YdIwC&pg=PA41#v=onepage)\]
 
-Zangwell, Nick. "{{% resource_link "08426afd-1265-4f39-b3f1-2b2522811e82" "Moral Mind-Independence" %}}." *Australasian Journal of Philosophy* 72, no. 2 (1994): 205–19.
+Zangwell, Nick. "[Moral Mind-Independence](http://dx.doi.org/10.1080/00048409412346011)." *Australasian Journal of Philosophy* 72, no. 2 (1994): 205–19.
 
-Woods, Jack. "{{% resource_link "edf2a3e7-6ea3-4e4c-8d35-66b0584acb4b" "Expressivism and Moore's Paradox" %}}." *Philosophers' Imprint* 14, no. 5 (2014).
+Woods, Jack. "[Expressivism and Moore's Paradox](http://hdl.handle.net/2027/spo.3521354.0014.005)." *Philosophers' Imprint* 14, no. 5 (2014).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Why Be Moral?**
@@ -119,10 +119,10 @@ Woods, Jack. "{{% resource_link "edf2a3e7-6ea3-4e4c-8d35-66b0584acb4b" "Expressi
 Reason and Morality
 {{< tdclose >}}{{< tdopen >}}
 
-Brink, David O. "{{% resource_link "f22e0b99-866e-4493-8313-0518d4448fb1" "A Puzzle About the Rational Authority of Morality" %}}." *Philosophical Perspectives* 6 (1992): 1–26.
+Brink, David O. "[A Puzzle About the Rational Authority of Morality](http://dx.doi.org/10.2307/2214236)." *Philosophical Perspectives* 6 (1992): 1–26.
 
-Shafer-Landau, Russ. "Moral Rationalism." In *Ethical Theory: An Anthology*. Wiley-Blackwell, 2012. ISBN: 9780470671603. \[Preview with {{% resource_link "98602df2-5769-47df-a351-e7bfc729a507" "Google Books" %}}\]
+Shafer-Landau, Russ. "Moral Rationalism." In *Ethical Theory: An Anthology*. Wiley-Blackwell, 2012. ISBN: 9780470671603. \[Preview with [Google Books](http://books.google.com/books?id=P-1CpL6XDTYC&pg=PA159#v=onepage)\]
 
-Wolf, Susan. "Moral Saints." In *Ethical Theory: An Anthology*. Wiley-Blackwell, 2012. ISBN: 9780470671603. \[Preview with {{% resource_link "b0543d4e-fbaf-43af-96a3-c9c5cd1a95d7" "Google Books" %}}\]
+Wolf, Susan. "Moral Saints." In *Ethical Theory: An Anthology*. Wiley-Blackwell, 2012. ISBN: 9780470671603. \[Preview with [Google Books](https://books.google.com/books?id=P-1CpL6XDTYC&lpg=PP1&pg=PA200#v=onepage&q&f=false)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
